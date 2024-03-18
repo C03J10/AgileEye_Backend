@@ -1,3 +1,7 @@
+# Progress
+
+- Database under construction due to data anomaly detection
+  
 # How to use this repository
 
 - Install miniconda and create a virtual environment then activate
